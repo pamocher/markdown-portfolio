@@ -1,1 +1,1 @@
-https://github.ibm.com/pamocher
+[GitHub](https://github.ibm.com/pamocher)
